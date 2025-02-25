@@ -1,1 +1,1 @@
-https://ardlee.github.io/qr-code-component-main/
+https://ardlee.github.io/ardlee-qr-code/
